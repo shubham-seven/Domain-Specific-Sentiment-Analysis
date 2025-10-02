@@ -1,0 +1,4 @@
+gradio==5.44.1
+torch==2.8.0+cu128
+transformers==4.56.2
+openai==2.0.1
